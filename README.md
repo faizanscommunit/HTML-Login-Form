@@ -5,6 +5,8 @@
 - ***Full Source Code***
 - ***MIT Licensed***
 
+# Preview
+![alt text](https://github.com/faizanscommunit/HTML-Login-Form/preview.png?raw=true)
 ------------
 *Website: https://faizanscommunit.pythonanywhere.com/*
 
